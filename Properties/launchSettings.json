@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DamnBackpack": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\rogo9\\Downloads\\plecak 1.txt\""
+    }
+  }
+}
